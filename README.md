@@ -1,2 +1,3 @@
 # demo
-This My First Git Repository
+This My First Git Repository.
+Author-Panita Pawar
